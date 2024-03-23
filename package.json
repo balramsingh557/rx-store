@@ -1,0 +1,25 @@
+{
+  "name": "rx-lamp",
+  "version": "0.1.2",
+  "description": "A simple store that utilitses RxJs Subject and can be used with any framework like React and Angular",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Balram Singh Rajput",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.3"
+  },
+  "keywords": [
+    "State Management",
+    "RxJs"
+  ]
+}
